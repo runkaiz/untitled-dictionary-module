@@ -1,4 +1,5 @@
 <script>
+    import '../tailwind.css';
     export let key = "";
 
     async function lookup() {
